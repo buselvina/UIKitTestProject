@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "62F3A93C-846C-460A-A34A-752DFB11178E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFA6B676-E2A3-48B9-86C6-343F07762FC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "deleteActionButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFA6B676-E2A3-48B9-86C6-343F07762FC6 - 98cb7e325b368406"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.deleteActionButton(__C.UIButton) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "EFA6B676-E2A3-48B9-86C6-343F07762FC6 - 98cb7e325b368440"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.deleteActionButton(__C.UIButton) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5736AF2-C818-42B8-92CD-E04617BF2F21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "createTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B9455AF-D7E7-438B-A163-1DE0735251CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "createTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7770C7B8-B8D6-42F9-9328-13AB576E698F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "createTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45B64BA7-5793-417D-94C4-556987FCA684"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "createTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7355CE4C-D865-47AC-B5F1-FD7677D42384"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "slider(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE7011D1-E62C-405C-B8E1-0B98A1DD468F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "swichActionStackView(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE7011D1-E62C-405C-B8E1-0B98A1DD468F - 7db4f64e2b501cd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "4636">
+               </Location>
+               <Location
+                  uuid = "BE7011D1-E62C-405C-B8E1-0B98A1DD468F - 7db4f64e2b501cd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "5340">
+               </Location>
+               <Location
+                  uuid = "BE7011D1-E62C-405C-B8E1-0B98A1DD468F - 7db4f64e2b50e3b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "5324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC62CC5C-E731-4610-9B21-8DE89305EF6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "swichActionStackView(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC62CC5C-E731-4610-9B21-8DE89305EF6E - 7db4f64e2b501f94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "3724">
+               </Location>
+               <Location
+                  uuid = "DC62CC5C-E731-4610-9B21-8DE89305EF6E - 7db4f64e2b501f94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "3568">
+               </Location>
+               <Location
+                  uuid = "DC62CC5C-E731-4610-9B21-8DE89305EF6E - 7db4f64e2b50e24e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "3552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C3770C8-8018-4AF1-BA72-FBB21493B71C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "swichActionStackView(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C3770C8-8018-4AF1-BA72-FBB21493B71C - 7db4f64e2b501901"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "8C3770C8-8018-4AF1-BA72-FBB21493B71C - 7db4f64e2b501901"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "8C3770C8-8018-4AF1-BA72-FBB21493B71C - 7db4f64e2b501dfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnyObject.ViewController.swichActionStackView(__C.UISwitch) -&gt; ()"
+                  moduleName = "AnyObject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alena/Documents/Projects/AnyObject/AnyObject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "824E1731-95BA-4F40-BC03-E0C401696EE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnyObject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "buttonAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
